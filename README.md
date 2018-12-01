@@ -8,7 +8,7 @@ you will need following dependancies to successfully run the launch files
 sudo apt-get install ros-kinetic-diff-drive-controller\
 sudo apt-get install ros-kinetic-amcl\
 sudo apt-get install ros-kinetic-gmapping\
-sudo apt-get install ros-kinetic-navigation
+sudo apt-get install ros-kinetic-navigation\
 sudo apt-get install ros-kinetic-octomap\
 
 //create a catkin_workspace
