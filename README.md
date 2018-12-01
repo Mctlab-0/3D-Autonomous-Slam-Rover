@@ -40,4 +40,3 @@ you can add a camera to the rviz as well if you want the output image to be disp
 
 <a href="https://imgflip.com/gif/2nx2my"><img src="https://i.imgflip.com/2nx2my.gif" title="made at imgflip.com"/></a>
 
-<iframe src="https://giphy.com/embed/1wX9CiTWCEHVNgU8Yl" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1wX9CiTWCEHVNgU8Yl">via GIPHY</a></p>
