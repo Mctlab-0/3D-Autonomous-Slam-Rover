@@ -37,3 +37,5 @@ if you want the bot to use slam and navigate use these two files\
 roslaunch gslambot move_base.launch
 
 you can add a camera to the rviz as well if you want the output image to be displayed in the rviz# 3D-Slam-Rover
+
+<a href="https://imgflip.com/gif/2nx2my"><img src="https://i.imgflip.com/2nx2my.gif" title="made at imgflip.com"/></a>
